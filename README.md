@@ -1,4 +1,4 @@
-# WWW'22 Tutorial
-## Self-Supervised Learning in Recommender Systems: Fundamentals and Advances
+# WWW'24 Tutorial
+## Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives
 
 [Tutorial page](https://secure-robust-recsys.github.io/)
