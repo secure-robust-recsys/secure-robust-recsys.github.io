@@ -1,7 +1,5 @@
 ![logo_tutorial](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/logo2_tutorial.png)
-![white](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/white.png)
 ![uqcqu_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/ug2.png)
-![white](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/white.png)
 ![uq_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/uq_logo2.jpg)
 
 <br>
