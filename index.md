@@ -1,7 +1,7 @@
 ![logo_tutorial](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/logo2_tutorial.png)
 ![uqcqu_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/ug3.png)
 ![uq_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/uq_logo2.jpg)
-
+ 
 <br>
 Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives</b>" at The Web Conference (WSDM) 2025.
 
