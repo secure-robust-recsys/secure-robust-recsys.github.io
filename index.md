@@ -57,22 +57,17 @@ The tutorial is delivered as a lecture-style tutorial (3 hours in duration) tha
 
 ### Our papers on secure and robust recommendation
 
-
-+ [Stealthy attack on graph recommendation system](https://doi.org/10.1016/j.eswa.2024.124476). <i><b>Expert Systems with Applications (2024)</b><i> <br>
-+ [Gray-Box Shilling Attack: An Adversarial Learning Approach](https://doi.org/10.1145/3512352). <i><b>ACM TIST (2022)</b><i> <br>
-+ [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://doi.org/10.1145/3637528.3671795). <i><b> KDD (2024)</b><i> <br>
-  
-+ [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
-Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen
-+ [	On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation](https://arxiv.org/abs/2204.11091).  <i><b>SIGIR'22</b></i> [[code]]() <br>
-Xin Xia, Hongzhi Yin, Junliang Yu, Qinyong Wang, Guandong Xu, Quoc Viet Hung Nguyen
-+ [Self-Supervised Graph Co-Training for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482388).  <i><b>CIKM'21</b></i> [[code]](https://github.com/xiaxin1998/COTREC) <br>
-Xin Xia, Hongzhi Yin, Junliang Yu, Yingxia Shao, Lizhen Cui
-+ [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation](https://dl.acm.org/doi/10.1145/3459637.3482426).  <i><b>CIKM'21</b></i> [[code]](https://github.com/0411tony/HHGR) <br>
-Junwei Zhang, Min Gao, Junliang Yu, Lei Guo, Jundong Li, Hongzhi Yin
-+ [Socially-Aware Self-Supervised Tri-Training for Recommendation](https://dl.acm.org/doi/10.1145/3447548.3467340).  <i><b>KDD'21</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SEPT.py) <br>
-Junliang Yu, Hongzhi Yin, Min Gao, Xin Xia, Xiangliang Zhang, Nguyen Quoc Viet Hung
-+ [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3442381.3449844).  <i><b>WWW'21</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/MHCN.py) <br>
-Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang
-+ [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/16578).  <i><b>AAAI'21</b></i> [[code]](https://github.com/xiaxin1998/DHCN) <br>
-Xin Xia, Hongzhi Yin, Junliang Yu, Qinyong Wang, Lizhen Cui, Xiangliang Zhang
+- <b>Secure recommender system</b>
+  + [Stealthy attack on graph recommendation system](https://doi.org/10.1016/j.eswa.2024.124476). <i><b>Expert Systems with Applications 124476(2024)</b><i> <br>
+  + [Gray-Box Shilling Attack: An Adversarial Learning Approach](https://doi.org/10.1145/3512352). <i><b>ACM TIST (2022)</b><i> <br>
+  + [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://doi.org/10.1145/3637528.3671795). <i><b> KDD (2024)</b><i> <br>
+  + [Ready for emerging threats to recommender systems? A graph convolution-based generative shilling attack](https://doi.org/10.1016/j.ins.2021.07.041). <i><b>Information Sciences (2021)</b><i> <br>
+  + [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://doi.org/10.1145/3539618.3591722). <i><b>SIGIR (2023)</b><i> <br>
+  + [Manipulating Visually Aware Federated Recommender Systems and Its Countermeasures](https://doi.org/10.1145/3630005). <i><b>ACM Transactions on Information Systems 42,3 (2023)</b><i> <br>
+  + [Pipattack: Poisoning federated recommender systems for manipulating item promotion](https://doi.org/10.1145/3488560.3498386). <i><b> WSDM (2022)</b><i> <br>
+  + [Poisoning Decentralized Collaborative Recommender System and Its Countermeasures](https://doi.org/10.1145/3626772.3657814). <i><b>SIGIR (2024)</b><i> <br>
+- <b>Robust recommender system </b>
+  + [Efficient Bi-Level Optimization for Recommendation Denoising](https://doi.org/10.1145/3580305.3599324). <i><b> KDD (2023)</b><i> <br>
+  + [GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection](https://doi.org/10.1145/3397271.3401165). <i><b> SIGIR (2020)</b><i> <br>
+- <b>A survey paper on the secure recommendation</b>
+  + [Poisoning Attacks and Defenses in Recommender Systems: A Survey](https://doi.org/10.48550/arXiv.2406.01022). <i><b>arXiv</b><i> <br>
