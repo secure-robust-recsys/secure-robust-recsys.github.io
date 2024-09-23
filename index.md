@@ -33,7 +33,7 @@ Recommender systems (RS) have proven to be vulnerable to malicious activities, w
 
 ### Outline
 
-The tutorial is delivered as a lecture-style tutorial (3 hours in duration) that includes:
+The tutorial is delivered as a lecture-style tutorial (3 hours in duration) that includes:
 - <b>Introduction</b>  (20 mins)
   - Overview of Recommendation (5 mins)
   - Overview of Secure and Robust Recommendation (15 mins)   
