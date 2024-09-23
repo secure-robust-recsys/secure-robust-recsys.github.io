@@ -1,4 +1,4 @@
-![logo_tutorial](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/logo2_tutorial.png)
+![logo_tutorial](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/logo.png)
 ![uqcqu_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/ug3.png)
 ![uq_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/uq_logo2.jpg)
  
