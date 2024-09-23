@@ -1,9 +1,8 @@
-![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo2_tutorial.png)
-![uq_logo](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/uq_logo2.jpg)
+![logo_tutorial](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/logo2_tutorial.png)
+![uq_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/uq_logo2.jpg)
 
 <br>
-Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent
-Advances and Future Prospectives</b>" at The Web Conference (WWW) 2024.
+Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives</b>" at The Web Conference (WWW) 2024.
 
 (Last update: 23/09/2024)
 
@@ -46,13 +45,13 @@ The tutorial is delivered as a lecture-style tutorial (3 hours in duration) tha
    - Robust Methods Against Noisy Data (40 mins)
 - <b> Limitations and Future Research Trends</b>  (30 mins)
    - Extension of Existing Research Questions (15 mins)
-   - Large Language Models in Secure and Robust Recommendation (15 mins)
+   - Large Language Models in Secure and Robust Recommendation (15 mins)
 - <b>Open-source Toolkit for Robust and Safe Recommendation</b> (10 mins)
 <hr>
 
 ### Targeted Audience
 
- The tutorial targets at a broad range of audiences from recommendation and other related areas, including academic and industrial researchers, graduate students, and practitioners. After the tutorial, we expect the audience will have a grasp of basic SSL strategies for enhancing recommendation, and gain real-world practice experiences through working on the released opensource toolkit. As for the prerequisite, basic knowledge of information retrieval and recommendation is preferred, and the tutorial will also introduce the foundation for better audience engagement.
+  This tutorial is designed for a broad audience, including academic and industrial researchers, graduate students, and practitioners from the recommendation field and related areas. By the end of the tutorial, participants will have a solid understanding of basic poisoning attacks and defensive strategies to enhance the robustness and security of recommendation systems. Additionally, they will gain hands-on experience using an open-source toolkit. While prior knowledge of recommendation systems is preferred, the tutorial will also cover foundational concepts to ensure better engagement and accessibility for all attendees.
 
 <hr>
 
