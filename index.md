@@ -57,10 +57,10 @@ The tutorial is delivered as a lecture-style tutorial (3 hours in duration) tha
 
 ### Our papers on secure and robust recommendation
 
-- <b> Secure recommender system</b>
-  + [Stealthy attack on graph recommendation system](https://doi.org/10.1016/j.eswa.2024.124476). <i><b>Expert Systems with Applications (2024)</b><i> <br>
-  + [Gray-Box Shilling Attack: An Adversarial Learning Approach](https://doi.org/10.1145/3512352). <i><b>ACM TIST (2022)</b><i> <br>
-  + [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://doi.org/10.1145/3637528.3671795). <i><b> KDD (2024)</b><i> <br>
+
++ [Stealthy attack on graph recommendation system](https://doi.org/10.1016/j.eswa.2024.124476). <i><b>Expert Systems with Applications (2024)</b><i> <br>
++ [Gray-Box Shilling Attack: An Adversarial Learning Approach](https://doi.org/10.1145/3512352). <i><b>ACM TIST (2022)</b><i> <br>
++ [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://doi.org/10.1145/3637528.3671795). <i><b> KDD (2024)</b><i> <br>
   
 + [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
 Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen
