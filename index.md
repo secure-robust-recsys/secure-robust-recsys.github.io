@@ -34,22 +34,20 @@ Recommender systems (RS) have proven to be vulnerable to malicious activities, w
 
 ### Outline
 
-This is a 90-minute lecture-style tutorial that includes:
-- <b>Introduction</b>  (10 mins)
-  - Overview of Recommendation
-  - History of SSL in Recommendation   
-- <b>Taxonomy of Self-Supervised Recommendation Methods</b>  (15 mins)
-  - Formulation of self-supervised recommendation
-  - Taxonomy and training paradigms
-- <b>Data Augmentation Techniques</b>  (10 mins)
-- <b>SSL Methods for Recomendation</b>  (30 mins)
-   - Contrastive mehthods
-   - Predictive methods
-   - Generative methods
-   - Hybrid methods
-- <b>Opensource Toolkit for Self-Supervised Recommendation</b> (5 mins)
-- <b>Limitations and Future Research Trends</b> (10 mins)
-- <b>Q&A</b> (10 mins)
+The tutorial is delivered as a lecture-style tutorial (3 hours in duration) that includes:
+- <b>Introduction</b>  (20 mins)
+  - Overview of Recommendation (5 mins)
+  - Overview of Secure and Robust Recommendation (15 mins)   
+- <b>Secure Recommendation</b>  (50 mins)
+  - Poisoning Attacks against Recommendation (40 mins)
+  - Defense Against Poisoning Attacks in Recommendation (30 mins)
+- <b>Robust Recommendation</b>  (50 mins)
+   - Robustness Problem in Recommendation (10 mins)
+   - Robust Methods Against Noisy Data (40 mins)
+- <b> Limitations and Future Research Trends</b>  (30 mins)
+   - Extension of Existing Research Questions (15 mins)
+   - Large Language Models in Secure and Robust Recommendation (15 mins)
+- <b>Open-source Toolkit for Robust and Safe Recommendation</b> (10 mins)
 <hr>
 
 ### Targeted Audience
