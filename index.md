@@ -2,7 +2,7 @@
 ![uq_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/uq_logo2.jpg)
 
 <br>
-Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives</b>" at The Web Conference (WWW) 2024.
+Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives</b>" at The Web Conference (WSDM) 2025.
 
 (Last update: 23/09/2024)
 
