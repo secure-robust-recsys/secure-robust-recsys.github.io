@@ -3,12 +3,12 @@
 ![uq_logo](https://raw.githubusercontent.com/secure-robust-recsys/secure-robust-recsys.github.io/main/uq_logo2.jpg)
  
 <br>
-Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives</b>" at The Web Conference (WSDM) 2025.
+Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: Recent Advances and Future Prospectives</b>" at The 18th ACM International Conference on Web Search and Data Mining (WSDM).
 
 (Last update: 23/09/2024)
 
 ### Time
-CET 14:00 - 15:30, 26/04/2024
+CET 14:00 - 15:30, 10/03/2025
 <hr>
 
 ### Description
@@ -36,18 +36,21 @@ Recommender systems (RS) have proven to be vulnerable to malicious activities, w
 
 The tutorial is delivered as a lecture-style tutorial (3 hours in duration) that includes:
 - <b>Introduction</b>  (20 mins)
-  - Overview of Recommendation (5 mins)
-  - Overview of Secure and Robust Recommendation (15 mins)   
-- <b>Secure Recommendation</b>  (50 mins)
-  - Poisoning Attacks against Recommendation (40 mins)
-  - Defense Against Poisoning Attacks in Recommendation (30 mins)
-- <b>Robust Recommendation</b>  (50 mins)
-   - Robustness Problem in Recommendation (10 mins)
-   - Robust Methods Against Noisy Data (40 mins)
-- <b> Limitations and Future Research Trends</b>  (30 mins)
-   - Extension of Existing Research Questions (15 mins)
-   - Large Language Models in Secure and Robust Recommendation (15 mins)
-- <b>Open-source Toolkit for Robust and Safe Recommendation</b> (10 mins)
+  - Overview of Recommender Systems (5 mins)
+  - Introduction of Data-Centric Recommender Systems and its confronted Issues (15 mins)   
+- <b>Securing Data Integrity - Defending Against Malicious Manipulation in Recommender Systems</b>  (40 mins)
+  - Motives and Types of Malicious Manipulation Attacks (20 mins)
+  - Defense Against Malicious Manipulation Attacks (20 mins)
+- <b>Preserving Data Privacy – Defending Against Adversarial Inference in Recommender Systems</b>  (40 mins)
+   - Types of Inference Attacks against Data Privacy (20 mins)
+   - Data Privacy-Preserving Methods (20 mins)
+- <b>Managing Data Noise – Overcoming the Impact of Inaccurate and Redundant Data in Recommender Systems</b>  (40 mins)
+   - Origins and Types of Data Noises (20 mins)
+   - Data Denoising Methods (20 mins)
+- <b>Research Limitations and Future Opportunities</b> (20 mins)
+   - Extension of Existing Research Questions (10 mins)
+   - Security of Large Language Models-Driven Recommender Systems (10 mins)
+- <b>Open-source Toolkit for Robust and Secure Recommendation</b> (20 mins)
 <hr>
 
 ### Targeted Audience
