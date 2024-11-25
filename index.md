@@ -62,14 +62,14 @@ The tutorial is delivered as a lecture-style tutorial (3 hours in duration) that
 ### Our papers on secure and robust recommendation
 
 - <b>Secure recommender system</b>
-  + [Stealthy attack on graph recommendation system](https://doi.org/10.1016/j.eswa.2024.124476). <i><b>Expert Systems with Applications 124476(2024)</b><i> <br>
-  + [Gray-Box Shilling Attack: An Adversarial Learning Approach](https://doi.org/10.1145/3512352). <i><b>ACM TIST (2022)</b><i> <br>
   + [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://doi.org/10.1145/3637528.3671795). <i><b>  In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2024)</b><i> <br>
   + [Ready for emerging threats to recommender systems? A graph convolution-based generative shilling attack](https://doi.org/10.1016/j.ins.2021.07.041). <i><b>Information Sciences (2021)</b><i> <br>
   + [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://doi.org/10.1145/3539618.3591722). <i><b>In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (2023)</b><i> <br>
   + [Manipulating Visually Aware Federated Recommender Systems and Its Countermeasures](https://doi.org/10.1145/3630005). <i><b>ACM Transactions on Information Systems 42,3 (2023)</b><i> <br>
   + [Pipattack: Poisoning federated recommender systems for manipulating item promotion](https://doi.org/10.1145/3488560.3498386). <i><b> In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (2022)</b><i> <br>
   + [Poisoning Decentralized Collaborative Recommender System and Its Countermeasures](https://doi.org/10.1145/3626772.3657814). <i><b>In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (2024)</b><i> <br>
+  + [Stealthy attack on graph recommendation system](https://doi.org/10.1016/j.eswa.2024.124476). <i><b>Expert Systems with Applications 124476(2024)</b><i> <br>
+  + [Gray-Box Shilling Attack: An Adversarial Learning Approach](https://doi.org/10.1145/3512352). <i><b>ACM TIST (2022)</b><i> <br>
 - <b>Robust recommender system </b>
   + [Efficient Bi-Level Optimization for Recommendation Denoising](https://doi.org/10.1145/3580305.3599324). <i><b> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2023)</b><i> <br>
   + [GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection](https://doi.org/10.1145/3397271.3401165). <i><b>In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (2020)</b><i> <br>
