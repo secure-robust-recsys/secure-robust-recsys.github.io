@@ -1,4 +1,4 @@
 # WSDM'25 Tutorial
-## Recent Advances and Future Prospectives
+## Towards Secure and Robust Recommender Systems: A Data-Centric Perspective
 
 [Tutorial page](https://secure-robust-recsys.github.io/)
