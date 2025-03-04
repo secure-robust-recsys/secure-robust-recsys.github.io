@@ -5,7 +5,7 @@
 <br>
 Welcome! This is the page of our tutorial "<b>Towards Secure and Robust Recommender Systems: A Data-Centric Perspective</b>" at The 18th ACM International Conference on Web Search and Data Mining (WSDM).
 
-(Last update: 04/03/202)
+(Last update: 04/03/2025)
 
 ### Time
 CET 14:00 - 15:30, 10/03/2025
